@@ -53,7 +53,7 @@ body {
 
 .main {
     background-attachment: fixed;
-    background: url("images/background.png");
+    background: url("background.png");
     background-position: center;
     background-size: cover;
     padding: 105px 0 154px 0;
