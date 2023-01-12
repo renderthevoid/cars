@@ -4,11 +4,11 @@
 }
 @font-face {
     font-family: Roboto;
-    src: url("fonts/Roboto.ttf");
+    src: url("Roboto.ttf");
 }
 @font-face {
     font-family: Roboto;
-    src: url("fonts/Robotobold.ttf");
+    src: url("Robotobold.ttf");
     font-weight: bold;
 }
 body {
@@ -53,7 +53,7 @@ body {
 
 .main {
     background-attachment: fixed;
-    background: url("images/background.png");
+    background: url("background.png");
     background-position: center;
     background-size: cover;
     padding: 105px 0 154px 0;
